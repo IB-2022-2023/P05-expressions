@@ -1,4 +1,4 @@
-# Práctica 05. Expresiones y tipos de datos
+# Práctica 05. Expresiones y tipos de datos. Git y GitHub. Estilo.
 
 # Factor de ponderación: 5
 
